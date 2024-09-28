@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CristianBarizonePH/static/css/main.b0e80830.css",
-    "main.js": "/CristianBarizonePH/static/js/main.63d41411.js",
+    "main.js": "/CristianBarizonePH/static/js/main.d3e7fce5.js",
     "static/js/453.d749477c.chunk.js": "/CristianBarizonePH/static/js/453.d749477c.chunk.js",
     "static/media/foto3.jpg": "/CristianBarizonePH/static/media/foto3.be30754417936e3c3a90.jpg",
     "static/media/foto5.jpg": "/CristianBarizonePH/static/media/foto5.803d92408abdec88d88b.jpg",
@@ -20,11 +20,11 @@
     "static/media/emailIcon.svg": "/CristianBarizonePH/static/media/emailIcon.3e1579a3abe910f2feb2f08306156d0c.svg",
     "index.html": "/CristianBarizonePH/index.html",
     "main.b0e80830.css.map": "/CristianBarizonePH/static/css/main.b0e80830.css.map",
-    "main.63d41411.js.map": "/CristianBarizonePH/static/js/main.63d41411.js.map",
+    "main.d3e7fce5.js.map": "/CristianBarizonePH/static/js/main.d3e7fce5.js.map",
     "453.d749477c.chunk.js.map": "/CristianBarizonePH/static/js/453.d749477c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b0e80830.css",
-    "static/js/main.63d41411.js"
+    "static/js/main.d3e7fce5.js"
   ]
 }
